@@ -4,9 +4,10 @@ This Repo is about build a Logistic regression model using kdb+/q language. Here
 
 
 <h3>Summary:</h3>
-*Get data and make it table.
 
-*Prepare and split the data for training and testing.
+* Get data and make it table.
+
+* Prepare and split the data for training and testing.
     * Training - 8000
     * Testing - 2000
 
