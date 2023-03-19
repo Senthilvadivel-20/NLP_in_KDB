@@ -3,7 +3,7 @@
 This Repo is about build a Logistic regression model using kdb+/q language. Here the logistic regression is follow the gradiant descent and sigmoid functions. 
 
 
-<h3>Summary:</>
+<h3>Summary:</h3>
 * Get data and make it table.
 * Prepare and split the data for training and testing.
     * Training - 8000
