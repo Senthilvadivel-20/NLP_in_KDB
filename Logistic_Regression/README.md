@@ -20,5 +20,6 @@ This Repo is about build a Logistic regression model using kdb+/q language. Here
 * Traing the tweets in vector form, get the theta value. 
 * Find the sentiment of test data with theta value. Compare the actual result with predicted result. 
 
+
 ! It's just basice model of Logistics regression in kdb+. 
  If you find any bugs or anything to change give pull request !
