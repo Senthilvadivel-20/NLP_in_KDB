@@ -18,4 +18,4 @@ This Repo is about build a Logistic regression model using kdb+/q language. Here
     * Stemming.
 * Extract feature of tweet - convert the tweet to vector based on words frequency.
 * Traing the tweets in vector form, get the theta value. 
-* Find the sentiment if test data with theta value. Compare the actual result with predicted result. 
+* Find the sentiment of test data with theta value. Compare the actual result with predicted result. 
