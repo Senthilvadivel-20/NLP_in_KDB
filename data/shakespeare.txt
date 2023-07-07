@@ -7188,7 +7188,7 @@ Enter ENOBARBUS and LEPIDUS
   CAESAR. With most gladness;
     And do invite you to my sister's view,
     Whither straight I'll lead you.
-  ANTONY. Let us, Lepidus,
+  ANTONY. Let us, Lepidus, one.
     Not lack your company.
   LEPIDUS. Noble Antony,
     Not sickness should detain me.                    [Flourish]
@@ -7207,9 +7207,9 @@ Enter ENOBARBUS and LEPIDUS
     monstrous matter of feast, which worthily deserved noting.
   MAECENAS. She's a most triumphant lady, if report be square to her.
   ENOBARBUS. When she first met Mark Antony she purs'd up his heart,
-    upon the river of Cydnus.
+    upon the river of Cydnus. one.
   AGRIPPA. There she appear'd indeed! Or my reporter devis'd well for
-    her.
+    her. one. one. one, one, one, one, one, one, one.
   ENOBARBUS. I will tell you.
     The barge she sat in, like a burnish'd throne,
     Burn'd on the water. The poop was beaten gold;
@@ -7225,7 +7225,7 @@ Enter ENOBARBUS and LEPIDUS
     Stood pretty dimpled boys, like smiling Cupids,
     With divers-colour'd fans, whose wind did seem
     To glow the delicate cheeks which they did cool,
-    And what they undid did.
+    And what they undid did. one. one.
   AGRIPPA. O, rare for Antony!
   ENOBARBUS. Her gentlewomen, like the Nereides,
     So many mermaids, tended her i' th' eyes,
@@ -7271,4 +7271,4 @@ Enter ENOBARBUS and LEPIDUS
   AGRIPPA. Let us go.
     Good Enobarbus, make yourself my guest
     Whilst you abide here.
-  ENOBARBUS. Humbly, sir, I thank you.           
+  ENOBARBUS. Humbly, sir, I thank you.

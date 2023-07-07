@@ -23,5 +23,6 @@ This Repo is about build a Logistic regression model using kdb+/q language. Here
     * result => 0.5 ---> Positive
     * result <  0.5 ---> Negative
 
+
 ! It's just basice model of Logistics regression in kdb+. 
  If you find any bugs or anything to change give pull request !
