@@ -1,5 +1,7 @@
 ## Hello world!
 
-This repository is about implement the NLP concepts in KDB+/q language.
+This repository is about implement the NLP concepts in KDB+/q.
 
-### Navie Bayes Explanation - ![Navie Bayes](./Explanation/Navie_Bayes/)
+
+
+
